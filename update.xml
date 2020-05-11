@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AppName>VCM 赋码采集关联软件</AppName>
+  <AppVersion>3.0.0.14</AppVersion>
+  <ExecuteTimeout>0</ExecuteTimeout>
+  <TreatErrorAsNotUpdated>false</TreatErrorAsNotUpdated>
+  <PromptUserBeforeAutomaticUpgrade>true</PromptUserBeforeAutomaticUpgrade>
+  <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
+  <Desc />
+  <Package>99df46e12a0f48cdbfccfcd7a3e8cac3.zip</Package>
+  <MD5>4A2E157DB4C37C57ED793861EB45147E</MD5>
+  <DeleteMethod>None</DeleteMethod>
+  <PackageSize>1715074</PackageSize>
+  <ForceUpdate>false</ForceUpdate>
+  <Packages>
+    <PackageInfo>
+      <FilePath>Newtonsoft.Json.dll</FilePath>
+      <FileSize>460800</FileSize>
+      <Version>10.0.3.21018</Version>
+      <PackageHash>7A4472A734BE2D85702490C14B9CEB38</PackageHash>
+      <PackageName>9a17297ed012499caad25dcb13489d47.zip</PackageName>
+      <PackageSize>184737</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>8138522AD8D2E6D88FA6CE2A8A1D4243</FileHash>
+      <Files>
+        <string>Newtonsoft.Json.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM 赋码采集关联软件.exe</FilePath>
+      <FileSize>460288</FileSize>
+      <Version>3.0.0.14</Version>
+      <PackageHash>71004B7064E0D0B1316686FEAE733679</PackageHash>
+      <PackageName>97fa4dc9620d4388a76473f549ba7168.zip</PackageName>
+      <PackageSize>177298</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>9F860594E44C6BE8EA738587D9655145</FileHash>
+      <Files>
+        <string>VCM 赋码采集关联软件.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Controller.dll</FilePath>
+      <FileSize>533504</FileSize>
+      <Version>1.0.0.2</Version>
+      <PackageHash>FE2138EC737303ECE8B1FDCF58B878DF</PackageHash>
+      <PackageName>8c3a4b9e3e204db098ce06c8beee2974.zip</PackageName>
+      <PackageSize>162787</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>2A70110A922D36E94F21B53A6631AE4E</FileHash>
+      <Files>
+        <string>VCM.Controller.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Controller.pdb</FilePath>
+      <FileSize>1842688</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>CABFF97F65BDFF6B9CE4DFDE97851F1F</PackageHash>
+      <PackageName>a610ef9b16cf4f87a24ee678713759ae.zip</PackageName>
+      <PackageSize>399307</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>EFA91492193AA3A98676D681F76C0613</FileHash>
+      <Files>
+        <string>VCM.Controller.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.DataService.dll</FilePath>
+      <FileSize>219648</FileSize>
+      <Version>1.0.0.0</Version>
+      <PackageHash>D00710F25426F68BED6FEB8009789732</PackageHash>
+      <PackageName>4bf1bdfc5d6e43038f4218b1871b946a.zip</PackageName>
+      <PackageSize>36782</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>9A55BC09378E3CBE4EF4B9C52C1FD64C</FileHash>
+      <Files>
+        <string>VCM.DataService.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.DataService.pdb</FilePath>
+      <FileSize>785920</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>CEDCB3C7B69DDA7CFB2CBAA283D5DC7A</PackageHash>
+      <PackageName>57b70496fb8f4376937f52cb4aadb415.zip</PackageName>
+      <PackageSize>148232</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>AEBFA6EC1BCB0910A4C26518155B0A49</FileHash>
+      <Files>
+        <string>VCM.DataService.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Function.dll</FilePath>
+      <FileSize>312832</FileSize>
+      <Version>1.0.0.1</Version>
+      <PackageHash>B01B6B9A0E52290B6FE77E70ED04C812</PackageHash>
+      <PackageName>ddd86c9b8dc2437b806ff25dc4752467.zip</PackageName>
+      <PackageSize>99009</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>2E71C46CDFC4663E1CE4B0F4D98CE5F4</FileHash>
+      <Files>
+        <string>VCM.Function.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Function.pdb</FilePath>
+      <FileSize>794112</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>D045296BDA007A75821F57F0C667A87A</PackageHash>
+      <PackageName>0fc6254dbb29471aa6c1c93c4a29af1e.zip</PackageName>
+      <PackageSize>183823</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>8F1C8864E6694E1CF950162B4CA9BB09</FileHash>
+      <Files>
+        <string>VCM.Function.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Interface.dll</FilePath>
+      <FileSize>389632</FileSize>
+      <Version>1.0.0.1</Version>
+      <PackageHash>5A034E3256C6B45A603CAA9719DB8224</PackageHash>
+      <PackageName>2587e0641876454d9c0f1f5e858014ca.zip</PackageName>
+      <PackageSize>107910</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>256BD7E12CF9EDE37E6C775AC7D586C7</FileHash>
+      <Files>
+        <string>VCM.Interface.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Interface.pdb</FilePath>
+      <FileSize>658944</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>DE0C49EF8B5B4D8323D2808BBE56F30A</PackageHash>
+      <PackageName>344e826e49e340a38eb0d105005bec73.zip</PackageName>
+      <PackageSize>149885</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>F97B04ED70668F4BB079E7AAA94030D3</FileHash>
+      <Files>
+        <string>VCM.Interface.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Kitlibrary.dll</FilePath>
+      <FileSize>54272</FileSize>
+      <Version>1.0.0.1</Version>
+      <PackageHash>48AE96AF7B512D9482E44D49292DC124</PackageHash>
+      <PackageName>6f41c4f7d86048a1a764a133cc9ef748.zip</PackageName>
+      <PackageSize>20376</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>B5091B4CAF79B36B670C27B7FD9F40DE</FileHash>
+      <Files>
+        <string>VCM.Kitlibrary.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>VCM.Kitlibrary.pdb</FilePath>
+      <FileSize>204288</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>DEDA6112A11D7788403DB70A6776F5A3</PackageHash>
+      <PackageName>58e20278a27747cbbec513c60acaad73.zip</PackageName>
+      <PackageSize>45170</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>F3915D8F59C94AE02FBCE7B80D1169BB</FileHash>
+      <Files>
+        <string>VCM.Kitlibrary.pdb</string>
+      </Files>
+    </PackageInfo>
+  </Packages>
+  <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+  <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+  <MustUpdate>false</MustUpdate>
+  <AutoExitCurrentProcess>false</AutoExitCurrentProcess>
+  <AutoEndProcessesWithinAppDir>true</AutoEndProcessesWithinAppDir>
+  <AutoKillProcesses>false</AutoKillProcesses>
+  <RequreAdminstrorPrivilege>false</RequreAdminstrorPrivilege>
+</UpdateInfo>
